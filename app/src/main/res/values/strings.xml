@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search">Search</string>
+    <string name="Favorites" />
+    <string name="favorites">Favorites</string>
+    <string name="top_1">Top #1</string>
+    <string name="medium">Medium</string>
+    <string name="p150_00">P150.00</string>
+    <string name="hello">Hello</string>
+    <string name="categories">Categories</string>
+    <string name="bottoms">Bottoms</string>
+    <string name="tops">Tops</string>
+    <string name="try_lang">TRY LANG</string>
+    <string name="talaga">Talaga?</string>
+    <string name="home">Home</string>
+    <string name="android">android</string>
+    <string name="add">add</string>
+</resources>
