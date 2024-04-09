@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //BottomNavigation
-        BottomNavigationView bottomNav = findViewById(R.id.bottomNav);
+   /*     BottomNavigationView bottomNav = findViewById(R.id.bottomNav);
         bottomNav.setSelectedItemId(R.id.home);
 
         bottomNav.setOnItemSelectedListener(item -> {
@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
             }
             return false;
         });
-
+*/
         imageView = findViewById(R.id.heart);
         imageView2 = findViewById(R.id.heart2);
         popUpContainer = findViewById(R.id.pop_up_container);
